@@ -1,7 +1,7 @@
 {
-  "id": "https://radix.arkitik.io/radix-tool-test/schema",
-  "$schema": "https://radix.arkitik.io/radix-tool-test/schema#",
-  "description": "Radix Testing Tool Schema",
+  "id": "https://github.com/arkitik/arch-json-schema/schema",
+  "$schema": "https://github.com/arkitik/arch-json-schema/schema#",
+  "description": "Arch Testing Tool Schema",
   "type": "object",
   "required": [
     "scenarios"
